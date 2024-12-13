@@ -1,0 +1,29 @@
+Stringa1=Todos los caminos llevan a Roma.
+
+hash=16fd0c39cb0e3f53bd3df18ad7169edd9aa22415b7f8c5f0a735b13c536ea401
+                                                                16
+
+Stringa2=Todos los camjnos llevan a Roma.
+
+hash=2c488a26e34728de6cc2a9acb14f2f58721cd17cb1b0ffebd9402f78116adab9
+                                                                16
+
+Stringa3=Todos los caminos llevan a Roma
+
+hash=e949c76f20d01a541d5ab51dcf845ae2a3765b4b0f5d609bce6a8b0f7bdc0bb1
+                                                                16
+
+Stringa4=I was asking questions which nobody else had asked before, because nobody else had actually looked at certain structures. Therefore, as I will tell, the advent of the computer, not as a computer but as a drawing machine, was for me a major event .... because for me computer graphics was a way of extending my hand, extending it and being able to draw things which my hand by itself, and the hands of nobody else before, would not have been able to represent. B. Mandelbrot
+
+hash=7e3a56d0115d2b44283df0e2b6350e2406dc48cd62a585685ebb669181614491
+                                                                16
+
+Stringa5=I was asking questions which nobody else had asked before, because nobody else had actually looked at certain structures. Therefore, as I will tell, the advent of the computer, not as a computer but as a drawing machine, was for me a major event .,.. because for me computer graphics was a way of extending my hand, extending it and being able to draw things which my hand by itself, and the hands of nobody else before, would not have been able to represent. B. Mandelbrot
+
+hash=2b3dd9e6b3248db4ecc9524484b3d945b10a6afff6a0bf19ef08dea0d1992391
+                                                                16
+
+Stringa6=I was asking questions which nobody else had asked before, because nobody else had actually looked at certain structures. Therefore, as I will tell, the advent of the computer, not as a computer but as a drawing machine, was for me a major event ..,. because for me computer graphics was a way of extending my hand, extending it and being able to draw things which my hand by itself, and the hands of nobody else before, would not have been able to represent. B. Mandelbrot
+
+hash=9c198b98d92b27210a9a01dcd01043bb8e665183f87d1b38677239078e10b831
+                                                                16
